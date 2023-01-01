@@ -7,8 +7,7 @@ private contact : number;
 private email : string;
 private address : string;
 
-
-//constuctor 
+//constuctor
 constructor(username : string,password : string,contact : number,email : string,address :string){
 this.username= username;
 this.password = password;
