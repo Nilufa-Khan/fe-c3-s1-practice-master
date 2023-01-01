@@ -1,0 +1,23 @@
+{
+  "users": [
+    {
+      "id": "100"
+    },
+    {
+      "username": "Nillufa",
+      "password": "1222",
+      "contact": "9988776650",
+      "email": "abc@gg.com",
+      "address": "Kolkata,westbengal",
+      "id": "19wSXbF"
+    },
+    {
+      "username": "piu",
+      "password": "111111111111111111",
+      "contact": "5454545454",
+      "email": "abc@gg.com",
+      "address": "Kolkata,westbengal",
+      "id": "exK24iS"
+    }
+  ]
+}
